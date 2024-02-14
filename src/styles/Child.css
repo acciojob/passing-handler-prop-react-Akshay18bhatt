@@ -4,6 +4,7 @@
     margin: 20px;
     border: 1px white dotted;
     border-radius: 5px;
+    
 }
 
 #master{
@@ -15,4 +16,8 @@
 .subheading{
     color: white;
     text-align: center;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
 }
